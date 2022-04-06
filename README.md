@@ -8,6 +8,10 @@ There are 2 jupyter notebooks:
 
 *CNN.ipynb* corresponds to the simulation of faulting a convolutional-layer neural network.
 
+To run using docker-compose:
+
+    docker-compose up
+
 An important prerequisite for constraint solving is to install SageMath, see:
 
 https://doc.sagemath.org/html/en/installation/index.html
