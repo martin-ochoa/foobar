@@ -15,10 +15,10 @@ https://doc.sagemath.org/html/en/installation/index.html
 
 BibTex:
 
-  @article{foobar2022,
+    @article{foobar2022,
     title={FooBaR: Fault Fooling Backdoor Attack on Neural Network Training},
     author={Jakub Breier, Xiaolu Hou, Martín Ochoa and Jesus Solano},
     journal={Transactions on Dependable and Secure Computing},
     year={2022},
-   publisher={IEEE}
-  }
+    publisher={IEEE}
+    }
