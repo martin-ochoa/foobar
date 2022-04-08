@@ -12,7 +12,7 @@ To run using docker-compose:
 
     docker-compose up
 
-An important prerequisite for constraint solving is to install SageMath, see:
+When not using the docker image , ann important prerequisite for constraint solving is to install SageMath, see:
 
 https://doc.sagemath.org/html/en/installation/index.html
 
